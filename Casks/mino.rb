@@ -2,12 +2,12 @@ cask "mino" do
   version "1.2.4"
 
   on_arm do
-    sha256 "c53e1de6fcb3b68abe11575deca9a9e0a1068fe5fe52de29cdf23c48da70e730"
+    sha256 "75bff3eff9134e9003f8a73d8729a3a72ed29de882bc06796dd7a5cfc9c05897"
     url "https://github.com/nad-bit/Mino/releases/download/v#{version}/Mino_v#{version}_AppleSilicon.zip"
   end
 
   on_intel do
-    sha256 "828370d71e0efa28b7bf3ef1b6eb26eed47de1aca663c0a5f693b8492b4200cf"
+    sha256 "7e018b998d5061769cc81769f004633f233abb6abb2bf63207555f098248bea2"
     url "https://github.com/nad-bit/Mino/releases/download/v#{version}/Mino_v#{version}_Intel.zip"
   end
 
