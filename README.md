@@ -4,7 +4,7 @@ My personal custom Homebrew tap.
 
 ## Formulae
 
-- [**Mino**](https://github.com/nad-bit/Mino) - A lightweight, native macOS menu bar app to track GitHub releases.
+- [**Mino**](https://github.com/nad-bit/Mino) - A lightweight, native macOS menu bar app to track GitHub releases with Homebrew integration.
 
 ## Installation
 
