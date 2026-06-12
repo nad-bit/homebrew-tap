@@ -15,7 +15,7 @@ cask "mino" do
   desc "A lightweight, native macOS menu bar app to track GitHub releases with Homebrew integration"
   homepage "https://github.com/nad-bit/Mino"
 
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
 
   app "Mino.app"
 end
